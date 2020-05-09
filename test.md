@@ -92,7 +92,7 @@ skip_render: "_posts/test-post.md"
 | `highlight.auto_detect` | 如果未指定语言，则启用自动检测                               | `false`   |
 | `highlight.line_number` | 显示行数 *Enabling this option will also enable `wrap` option* | `true`    |
 | `highlight.tab_replace` | 用 n 个空格替换 tabs；如果值为空，则不会替换 tabs            | `''`      |
-| `highlight.wrap`        | Wrap the code block in [<table>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table) | `true`    |
+| `highlight.wrap`        | Wrap the code block in  | `true`    |
 | `highlight.hljs`        | Use the `hljs-*` prefix for CSS classes                      | `false`   |
 
 **相对地址**
